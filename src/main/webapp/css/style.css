@@ -1,0 +1,5 @@
+@CHARSET "ISO-8859-1";
+@import url("../bootstrap/css/bootstrap.css");
+@import url("../css/sidebar.css");
+input[name=nome]{width:50%;}
+input[name=dataNascimento]{width:20%;}
